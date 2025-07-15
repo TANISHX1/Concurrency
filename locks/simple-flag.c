@@ -51,7 +51,7 @@ int main (){
     pthread_join(t2,NULL);
     double data_race;
     char *race = (counter<2*LOOP_LIMIT?"Data Race":"By-luck (No Data Race happnes)");
-    data_race = ((float)counter/(2*LOOP_LIMIT))*100;
+    data_race = (1 -((float)counter/(2*LOOP_LIMIT)))*100;
     printf("counter : %d\nResult: %s\nData Race(percentage) : %.3f\n",counter,race,data_race);
   //  free(lock);
     return 0;
