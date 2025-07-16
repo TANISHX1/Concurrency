@@ -1,0 +1,301 @@
+Line 1: The first electronic computer, ENIAC, was built in 1945 and weighed 30 tons.
+Line 2: Python is named after the British comedy group Monty Python.
+Line 3: The term "bug" in computer science originated when a moth caused a malfunction in the Harvard Mark II computer in 1947.
+Line 4: RAM stands for Random Access Memory.
+Line 5: Java was originally designed for interactive television, but it was too advanced for the digital cable television industry of the time.
+Line 6: The first computer mouse was made of wood.
+Line 7: The @ symbol used in email addresses is called an "asperand" or "commercial at".
+Line 8: The first computer virus was created in 1983 and was called the Elk Cloner.
+Line 9: Approximately 90% of the world's currency is digital.
+Line 10: The first webcam was created to monitor a coffee pot at Cambridge University.
+Line 11: The original name for Windows was Interface Manager.
+Line 12: The first computer game was Spacewar!, developed in 1962.
+Line 13: FORTRAN (FORmula TRANslation) was the first high-level programming language.
+Line 14: The first hard drive was created in 1979 and could hold only 5MB of data.
+Line 15: The programming language C was developed between 1969 and 1973 by Dennis Ritchie.
+Line 16: Google was originally called BackRub.
+Line 17: The first programmer in the world was a woman, Ada Lovelace.
+Line 18: The original Apple logo featured Sir Isaac Newton sitting under an apple tree.
+Line 19: The first computer password was created in the 1960s at MIT.
+Line 20: HTTP stands for HyperText Transfer Protocol.
+Line 21: The first domain name ever registered was Symbolics.com on March 15, 1985.
+Line 22: CSS stands for Cascading Style Sheets.
+Line 23: The concept of Object-Oriented Programming was introduced in the 1960s.
+Line 24: TCP/IP (Transmission Control Protocol/Internet Protocol) was developed by Vint Cerf and Bob Kahn.
+Line 25: The world's first website went live on August 6, 1991.
+Line 26: SQL (Structured Query Language) was developed at IBM by Donald D. Chamberlin and Raymond F. Boyce.
+Line 27: The concept of Wi-Fi was invented by a team of Australian scientists led by Dr John O'Sullivan in 1992.
+Line 28: Linux, an open-source operating system, was created by Linus Torvalds in 1991.
+Line 29: The first computer bug was literally a bug - a moth trapped in a relay.
+Line 30: JavaScript was created in 10 days by Brendan Eich in 1995.
+Line 31: The first email was sent by Ray Tomlinson to himself in 1971.
+Line 32: The MP3 format was invented by a team of engineers led by Karlheinz Brandenburg.
+Line 33: The concept of Virtual Reality dates back to the 1950s.
+Line 34: USB (Universal Serial Bus) was developed to standardize the connection of peripherals to personal computers.
+Line 35: The first Apple computer was built in a garage by Steve Jobs and Steve Wozniak.
+Line 36: The computer programming language BASIC stands for Beginner's All-purpose Symbolic Instruction Code.
+Line 37: The first handheld mobile phone call was made on April 3, 1973, by Martin Cooper.
+Line 38: ASCII stands for American Standard Code for Information Interchange.
+Line 39: The first computer printer was invented in 1953 by Remington-Rand.
+Line 40: The concept of Artificial Intelligence was first proposed by John McCarthy in 1956.
+Line 41: The first graphical web browser, Mosaic, was released in 1993.
+Line 42: The world's first computer, Z1, was built by Konrad Zuse in his parents' living room between 1936 and 1938.
+Line 43: The first computer network, ARPANET, was created in 1969.
+Line 44: The term "Wi-Fi" doesn't stand for anything. It was created by a marketing firm.
+Line 45: The programming language Python was created by Guido van Rossum and first released in 1991.
+Line 46: The first transistor was invented at Bell Labs in 1947.
+Line 47: The first open-source software license, the GNU General Public License, was written by Richard Stallman in 1989.
+Line 48: The first commercial spam email was sent in 1994.
+Line 49: The first computer to sing was an IBM 7094. It sang "Daisy Bell" in 1961.
+Line 50: The worst computer virus in history, MyDoom, caused an estimated \$38 billion in damages.
+Line 51: The first computer-to-computer link was established via ARPANET in 1969.
+Line 52: The term "cyberspace" was coined by science fiction author William Gibson in his 1982 story "Burning Chrome".
+Line 53: The first computer-animated full-length feature film was Toy Story, released in 1995.
+Line 54: The first computer chess program was developed in the 1950s at Los Alamos National Laboratory.
+Line 55: The concept of the computer firewall was introduced in the late 1980s.
+Line 56: The first computer with a hard disk drive was the IBM 305 RAMAC, introduced in 1956.
+Line 57: The concept of cloud computing dates back to the 1960s.
+Line 58: The first computer program to pass the Turing Test was ELIZA, created by Joseph Weizenbaum in 1966.
+Line 59: The programming language Ruby was created by Yukihiro Matsumoto in 1995.
+Line 60: The first computer worm distributed via the Internet was the Morris worm in 1988.
+Line 61: The concept of virtual memory was first implemented on the Atlas Computer in 1962.
+Line 62: The first public demonstration of the mouse was in 1968 by Doug Engelbart.
+Line 63: The first version of Microsoft Windows, Windows 1.0, was released in 1985.
+Line 64: The concept of the computer virus was first theorized by John von Neumann in 1949.
+Line 65: The first computer to defeat a world chess champion was IBM's Deep Blue in 1997.
+Line 66: The programming language C++ was developed by Bjarne Stroustrup in 1979.
+Line 67: The first graphical user interface (GUI) was developed by Xerox PARC in the 1970s.
+Line 68: The concept of the computer database was first proposed in the 1960s.
+Line 69: The first computer-generated music was created by CSIRAC in Australia in 1951.
+Line 70: The concept of the computer spreadsheet was introduced with VisiCalc in 1979.
+Line 71: The first microprocessor, the Intel 4004, was released in 1971.
+Line 72: The programming language COBOL was created in 1959 by the Conference on Data Systems Languages (CODASYL).
+Line 73: The first computer monitor was the Whirlwind I, developed in 1949.
+Line 74: The concept of computer networking was first proposed by J.C.R. Licklider in 1962.
+Line 75: The first computer-aided software engineering (CASE) tool was developed in the 1970s.
+Line 76: The programming language Perl was created by Larry Wall in 1987.
+Line 77: The first computer with a built-in hard drive was the IBM PC XT, introduced in 1983.
+Line 78: The concept of the computer algorithm dates back to the 9th century, with the work of Persian mathematician Al-Khwarizmi.
+Line 79: The first computer-controlled robot was created by George Devol in 1954.
+Line 80: The programming language Pascal was developed by Niklaus Wirth in 1970.
+Line 81: The first computer-generated 3D animation was created by Edwin Catmull in 1972.
+Line 82: The concept of the computer compiler was first proposed by Grace Hopper in 1952.
+Line 83: The programming language Lisp was created by John McCarthy in 1958.
+Line 84: The first computer-controlled traffic light system was installed in Toronto in 1963.
+Line 85: The concept of computer time-sharing was first demonstrated in 1961 at MIT.
+Line 86: The first computer-based bulletin board system (BBS) was created by Ward Christensen and Randy Suess in 1978.
+Line 87: The programming language Haskell was developed in the late 1980s.
+Line 88: The first computer-controlled vending machine was introduced in 1972.
+Line 89: The concept of computer-aided design (CAD) was first developed in the 1960s.
+Line 90: The first computer mouse with a scroll wheel was introduced by Microsoft in 1996.
+Line 91: The programming language Scala was developed by Martin Odersky and his research group at EPFL in 2003.
+Line 92: The first computer-controlled industrial robot was installed at a General Motors plant in 1961.
+Line 93: The concept of the computer virus scanner was introduced in the 1980s.
+Line 94: The first computer-generated film sequence in a feature film was in Westworld (1973).
+Line 95: The programming language Prolog was developed in 1972 by Alain Colmerauer and Philippe Roussel.
+Line 96: The first computer-controlled home automation system was developed in 1966 by Jim Sutherland.
+Line 97: The concept of computer-based digital audio was first demonstrated in 1957 by Max Mathews.
+Line 98: The first computer-controlled adaptive traffic signal system was implemented in Toronto in 1963.
+Line 99: The programming language Erlang was developed by Joe Armstrong, Robert Virding, and Mike Williams at Ericsson in 1986. 
+Line 100: The first computer-controlled electron microscope was developed in the 1970s.
+Line 101: The concept of computer-aided manufacturing (CAM) was first introduced in the 1950s.
+Line 102: The programming language Go was developed by Google engineers Robert Griesemer, Rob Pike, and Ken Thompson in 2007.
+Line 103: The first computer-controlled telescope was developed in the 1970s.
+Line 104: The concept of computer-based virtual reality was first explored in the 1960s by Ivan Sutherland.
+Line 105: The first computer-controlled aircraft autopilot system was developed in the 1940s.
+Line 106: The programming language Swift was developed by Apple Inc. and was first released in 2014.
+Line 107: The first computer-controlled traffic management system was implemented in Toronto in 1963.
+Line 108: The concept of computer-based artificial neural networks was first introduced in the 1940s.
+Line 109: The first computer-controlled robotic arm was developed by George Devol in 1954.
+Line 110: The programming language Rust was developed by Mozilla Research and was first released in 2010.
+Line 111: The first computer-controlled digital watch was introduced by Hamilton Watch Company in 1972.
+Line 112: The concept of computer-based expert systems was first developed in the 1960s.
+Line 113: The first computer-controlled satellite was launched by NASA in 1962.
+Line 114: The programming language TypeScript was developed by Microsoft and was first released in 2012.
+Line 115: The first computer-controlled subway system was implemented in San Francisco in 1972.
+Line 116: The concept of computer-based fuzzy logic was introduced by Lotfi Zadeh in 1965.
+Line 117: The first computer-controlled laser cutter was developed in the 1960s.
+Line 118: The programming language Kotlin was developed by JetBrains and was first released in 2011.
+Line 119: The first computer-controlled traffic light system in the UK was installed in Glasgow in 1966.
+Line 120: The concept of computer-based genetic algorithms was introduced by John Holland in the 1960s.
+Line 121: The first computer-controlled warehouse management system was implemented in the 1970s.
+Line 122: The programming language F# was developed by Microsoft Research and was first released in 2005.
+Line 123: The first computer-controlled nuclear power plant was commissioned in 1963.
+Line 124: The concept of computer-based chaos theory was first explored in the 1960s by Edward Lorenz.
+Line 125: The first computer-controlled brewing system was developed in the 1970s.
+Line 126: The programming language Dart was developed by Google and was first released in 2011.
+Line 127: The first computer-controlled weather forecasting system was developed in the 1950s.
+Line 128: The concept of computer-based quantum computing was first proposed by Richard Feynman in 1982.
+Line 129: The first computer-controlled assembly line was implemented by General Motors in 1961.
+Line 130: The programming language Julia was developed at MIT and was first released in 2012.
+Line 131: The first computer-controlled traffic signal optimization system was implemented in Toronto in 1963.
+Line 132: The concept of computer-based cryptography dates back to World War II with the development of the Enigma machine.
+Line 133: The first computer-controlled elevator system was developed in the 1970s.
+Line 134: The programming language Groovy was developed by James Strachan and Bob McWhirter and was first released in 2003.
+Line 135: The first computer-controlled flight simulator was developed in the 1960s.
+Line 136: The concept of computer-based machine learning was first explored in the 1950s.
+Line 137: The first computer-controlled car engine management system was developed in the 1970s.
+Line 138: The programming language Scala was developed by Martin Odersky and was first released in 2004.
+Line 139: The first computer-controlled robotic surgical system was developed in the 1980s.
+Line 140: The concept of computer-based natural language processing was first explored in the 1950s.
+Line 141: The first computer-controlled telescope was developed in the 1970s.
+Line 142: The programming language R was developed by Ross Ihaka and Robert Gentleman and was first released in 1993.
+Line 143: The first computer-controlled traffic management system in Europe was implemented in Munich in 1968.
+Line 144: The concept of computer-based image recognition was first explored in the 1960s.
+Line 145: The first computer-controlled printing press was developed in the 1970s.
+Line 146: The programming language Lua was developed by Roberto Ierusalimschy and was first released in 1993.
+Line 147: The first computer-controlled hydroelectric power plant was commissioned in the 1960s.
+Line 148: The concept of computer-based voice recognition was first explored in the 1950s.
+Line 149: The first computer-controlled greenhouse was developed in the 1980s.
+Line 150: The programming language Clojure was developed by Rich Hickey and was first released in 2007.
+Line 151: The first computer-controlled traffic signal system in Australia was installed in Melbourne in 1970.
+Line 152: The concept of computer-based data mining was first explored in the 1960s.
+Line 153: The first computer-controlled wind tunnel was developed in the 1970s.
+Line 154: The programming language Elixir was developed by José Valim and was first released in 2011.
+Line 155: The first computer-controlled water treatment plant was developed in the 1970s.
+Line 156: The concept of computer-based pattern recognition was first explored in the 1960s.
+Line 157: The first computer-controlled telescope at a major observatory was installed in 1975.
+Line 158: The programming language Scratch was developed at MIT Media Lab and was first released in 2003.
+Line 159: The first computer-controlled traffic management system in Japan was implemented in Tokyo in 1973.
+Line 160: The concept of computer-based bioinformatics was first explored in the 1970s.
+Line 161: The first computer-controlled brewing system for beer production was developed in the 1980s.
+Line 162: The programming language OCaml was developed by Xavier Leroy and was first released in 1996.
+Line 163: The first computer-controlled air traffic control system was implemented in the 1960s.
+Line 164: The concept of computer-based augmented reality was first explored in the 1960s.
+Line 165: The first computer-controlled robotic welding system was developed in the 1970s.
+Line 166: The programming language Nim was developed by Andreas Rumpf and was first released in 2008.
+Line 167: The first computer-controlled traffic signal system in Canada was installed in Toronto in 1963.
+Line 168: The concept of computer-based computer vision was first explored in the 1960s.
+Line 169: The first computer-controlled automated warehouse was developed in the 1980s.
+Line 170: The programming language Crystal was developed by Ary Borenszweig and was first released in 2014.
+Line 171: The first computer-controlled nuclear reactor was commissioned in 1963.
+Line 172: The concept of computer-based speech synthesis was first explored in the 1950s.
+Line 173: The first computer-controlled robotic assembly line was implemented by General Motors in 1961.
+Line 174: The programming language D was developed by Walter Bright and was first released in 2001.
+Line 175: The first computer-controlled traffic management system in France was implemented in Paris in 1970.
+Line 176: The concept of computer-based evolutionary computation was first explored in the 1960s.
+Line 177: The first computer-controlled satellite tracking system was developed in the 1960s.
+Line 178: The programming language Racket was developed at Northeastern University and was first released in 1995.
+Line 179: The first computer-controlled power grid management system was developed in the 1970s.
+Line 180: The concept of computer-based recommendation systems was first explored in the 1970s.
+Line 181: The first computer-controlled automated parking system was developed in the 1990s.
+Line 182: The programming language Elm was developed by Evan Czaplicki and was first released in 2012.
+Line 183: The first computer-controlled traffic signal system in India was installed in New Delhi in 1982.
+Line 184: The concept of computer-based swarm intelligence was first explored in the 1980s.
+Line 185: The first computer-controlled robotic dairy farm was developed in the 2000s.
+Line 186: The programming language Fortran was developed by IBM and was first released in 1957.
+Line 187: The first computer-controlled weather satellite was launched in 1960.
+Line 188: The concept of computer-based parallel computing was first explored in the 1960s.
+Line 189: The first computer-controlled automated greenhouse was developed in the 1980s.
+Line 190: The programming language Ada was developed by Jean Ichbiah and was first released in 1983.
+Line 191: The first computer-controlled traffic management system in Spain was implemented in Madrid in 1975.
+Line 192: The concept of computer-based neural networks was first explored in the 1940s.
+Line 193: The first computer-controlled robotic exoskeleton was developed in the 1960s.
+Line 194: The programming language Objective-C was developed by Brad Cox and Tom Love and was first released in 1984.
+Line 195: The first computer-controlled automated stock trading system was developed in the 1970s.
+Line 196: The concept of computer-based reinforcement learning was first explored in the 1950s.
+Line 197: The first computer-controlled automated farm irrigation system was developed in the 1980s.
+Line 198: The programming language Smalltalk was developed at Xerox PARC and was first released in 1980.
+Line 199: The first computer-controlled traffic signal system in Brazil was installed in São Paulo in 1978.
+Line 200: The concept of computer-based virtual assistants was first explored in the 1960s.
+Line 201: The first computer-controlled automated warehouse management system was developed in the 1980s.
+Line 202: The programming language COBOL was developed by Grace Hopper and was first released in 1959.
+Line 203: The first computer-controlled traffic signal system in South Korea was installed in Seoul in 1984.
+Line 204: The concept of computer-based expert systems was first explored in the 1960s.
+Line 205: The first computer-controlled robotic surgery was performed in 1985.
+Line 206: The programming language Pascal was developed by Niklaus Wirth and was first released in 1970.
+Line 207: The first computer-controlled automated subway system was implemented in London in 1968.
+Line 208: The concept of computer-based natural language understanding was first explored in the 1950s.
+Line 209: The first computer-controlled automated production line in the automotive industry was implemented by Toyota in 1982.
+Line 210: The programming language Simula was developed by Ole-Johan Dahl and Kristen Nygaard and was first released in 1967.
+Line 211: The first computer-controlled traffic management system in China was implemented in Shanghai in 1986.
+Line 212: The concept of computer-based genetic programming was first explored in the 1980s.
+Line 213: The first computer-controlled robotic space probe was launched by NASA in 1962.
+Line 214: The programming language Prolog was developed by Alain Colmerauer and Philippe Roussel and was first released in 1972.
+Line 215: The first computer-controlled automated teller machine (ATM) was installed in 1967.
+Line 215: The concept of computer-based quantum cryptography was first proposed in the 1970s.
+Line 216: The first computer-controlled robotic manufacturing cell was implemented by General Motors in 1969.
+Line 217: The programming language Forth was developed by Charles H. Moore and was first released in 1970.
+Line 218: The first computer-controlled traffic signal system in Russia was installed in Moscow in 1980.
+Line 219: The concept of computer-based neural networks was first explored in the 1940s.
+Line 220: The first computer-controlled robotic prosthetic limb was developed in the 1960s.
+Line 221: The programming language Logo was developed by Seymour Papert and Wally Feurzeig and was first released in 1967.
+Line 222: The first computer-controlled automated warehouse was implemented by Amazon in 1997.
+Line 223: The concept of computer-based evolutionary algorithms was first explored in the 1960s.
+Line 224: The first computer-controlled robotic spacecraft to land on another planet was Viking 1, which landed on Mars in 1976.
+Line 225: The programming language ML was developed by Robin Milner and was first released in 1973.
+Line 226: The first computer-controlled traffic management system in Italy was implemented in Rome in 1972.
+Line 227: The concept of computer-based fuzzy logic was first introduced by Lotfi Zadeh in 1965.
+Line 228: The first computer-controlled robotic exploration of the deep sea was conducted in 1985.
+Line 229: The programming language Scheme was developed by Guy L. Steele and Gerald Jay Sussman and was first released in 1975.
+Line 230: The first computer-controlled automated sorting system for postal services was implemented in the 1960s.
+Line 231: The concept of computer-based swarm intelligence was first explored in the 1980s.
+Line 232: The first computer-controlled robotic system for agriculture was developed in the 1980s.
+Line 233: The programming language APL was developed by Kenneth E. Iverson and was first released in 1964.
+Line 234: The first computer-controlled traffic signal system in Mexico was installed in Mexico City in 1985.
+Line 235: The concept of computer-based reinforcement learning was first explored in the 1980s.
+Line 236: The first computer-controlled robotic system for underwater exploration was developed in the 1970s.
+Line 237: The programming language Lisp was developed by John McCarthy and was first released in 1958.
+Line 238: The first computer-controlled automated parking system was implemented in Japan in 1974.
+Line 239: The concept of computer-based autonomous agents was first explored in the 1980s.
+Line 240: The first computer-controlled robotic system for space station maintenance was developed by NASA in the 1990s.
+Line 241: The programming language Haskell was developed by a committee of academics and was first released in 1990.
+Line 242: The first computer-controlled traffic management system in Sweden was implemented in Stockholm in 1967.
+Line 243: The concept of computer-based recommender systems was first explored in the 1990s.
+Line 244: The first computer-controlled robotic system for nuclear power plant maintenance was developed in the 1980s.
+Line 245: The programming language Erlang was developed by Joe Armstrong, Robert Virding, and Mike Williams and was first released in 1986.
+Line 246: The first computer-controlled automated library system was implemented in the 1960s.
+Line 247: The concept of computer-based sentiment analysis was first explored in the 2000s.
+Line 248: The first computer-controlled robotic system for oil rig operations was developed in the 1990s.
+Line 249: The programming language Ada was developed by Jean Ichbiah and was first released in 1983.
+Line 250: The first computer-controlled traffic signal system in the Netherlands was installed in Amsterdam in 1968.
+Line 251: The concept of computer-based social network analysis was first explored in the 1930s.
+Line 252: The first computer-controlled robotic system for firefighting was developed in the 2000s.
+Line 253: The programming language Smalltalk was developed by Alan Kay, Dan Ingalls, and Adele Goldberg and was first released in 1980.
+Line 254: The first computer-controlled automated baggage handling system in an airport was implemented in the 1970s.
+Line 255: The concept of computer-based edge computing was first explored in the 2000s.
+Line 256: The first computer-controlled robotic system for search and rescue operations was developed in the 1990s.
+Line 257: The programming language Objective-C was developed by Brad Cox and Tom Love and was first released in 1984.
+Line 258: The first computer-controlled traffic management system in Singapore was implemented in 1986.
+Line 259: The concept of computer-based blockchain technology was first introduced by Satoshi Nakamoto in 2008.
+Line 260: The first computer-controlled robotic system for asteroid mining was proposed in the 2010s.
+Line 261: The programming language Python was developed by Guido van Rossum and was first released in 1991.
+Line 262: The first computer-controlled automated vehicle parking system was implemented in Japan in 1974.
+Line 263: The concept of computer-based quantum machine learning was first explored in the 2010s.
+Line 264: The first computer-controlled robotic system for deep-sea mining was developed in the 2010s.
+Line 265: The programming language Ruby was developed by Yukihiro Matsumoto and was first released in 1995.
+Line 266: The first computer-controlled traffic signal system in Turkey was installed in Istanbul in 1984.
+Line 267: The concept of computer-based neuromorphic computing was first explored in the 1980s.
+Line 268: The first computer-controlled robotic system for space debris removal was proposed in the 2010s.
+Line 269: The programming language Go was developed by Robert Griesemer, Rob Pike, and Ken Thompson and was first released in 2009.
+Line 270: The first computer-controlled automated warehouse system using drones was implemented by Amazon in 2013.
+Line 271: The concept of computer-based federated learning was first introduced in 2016.
+Line 272: The first computer-controlled robotic system for 3D printing of buildings was developed in the 2010s.
+Line 273: The programming language Swift was developed by Apple Inc. and was first released in 2014.
+Line 274: The first computer-controlled traffic management system using artificial intelligence was implemented in Pittsburgh, USA in 2012.
+Line 275: The concept of computer-based quantum supremacy was first demonstrated by Google in 2019.
+Line 276: The first computer-controlled robotic system for autonomous ship operation was developed in the 2010s.
+Line 277: The programming language Rust was developed by Graydon Hoare at Mozilla Research and was first released in 2010.
+Line 278: The first computer-controlled automated vertical farming system was implemented in Japan in 2017.
+Line 279: The concept of computer-based edge AI was first explored in the late 2010s.
+Line 280: The first computer-controlled robotic system for autonomous forest firefighting was developed in the 2020s.
+Line 281: The programming language TypeScript was developed by Microsoft and was first released in 2012.
+Line 282: The first computer-controlled traffic signal system using machine learning was implemented in India in 2019.
+Line 283: The concept of computer-based homomorphic encryption was first proposed in 1978.
+Line 284: The first computer-controlled robotic system for autonomous underwater vehicle swarms was developed in the 2020s.
+Line 285: The programming language Kotlin was developed by JetBrains and was first released in 2011.
+Line 286: The first computer-controlled automated recycling system using AI was implemented in Japan in 2019.
+Line 287: The concept of computer-based quantum error correction was first proposed in the 1990s.
+Line 288: The first computer-controlled robotic system for autonomous drone swarms was developed by the U.S. military in the 2010s.
+Line 289: The programming language Julia was developed by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and Alan Edelman and was first released in 2012.
+Line 290: The first computer-controlled traffic management system using 5G technology was implemented in China in 2019.
+Line 291: The concept of computer-based DNA computing was first demonstrated in 1994.
+Line 292: The first computer-controlled robotic system for autonomous construction was developed in the 2020s.
+Line 293: The programming language Dart was developed by Google and was first released in 2011.
+Line 294: The first computer-controlled automated port terminal using AI was implemented in Singapore in 2018.
+Line 295: The concept of computer-based quantum sensing was first explored in the 2000s.
+Line 296: The first computer-controlled robotic system for autonomous farming was developed in the 2010s.
+Line 297: The programming language F# was developed by Microsoft Research and was first released in 2005.
+Line 298: The first computer-controlled traffic signal system using edge computing was implemented in Las Vegas, USA in 2019.
+Line 299: The concept of computer-based neuromorphic engineering was first explored in the 1980s.
+Line 300: The first computer-controlled robotic system for autonomous ocean cleanup was developed by The Ocean Cleanup organization in 2018.
