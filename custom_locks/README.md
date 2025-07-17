@@ -1,7 +1,7 @@
-## Custom Locks
+# Custom Locks
  custom created locks using atomic operations , systemcalls and minimal kernal support
 
-# linux_futex
+## linux_futex
    implementation of futex-based mutex lock with efficient userspace fast path and kernel-assisted blocking.
    
   Key points:
