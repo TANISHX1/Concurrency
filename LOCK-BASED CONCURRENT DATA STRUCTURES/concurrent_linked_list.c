@@ -31,9 +31,6 @@ void init(_list_e *List)
     pthread_mutex_init(&List->lock, NULL);
 }
 
-void update_list(_list_e)
-{
-}
 void *data_fetch(void *arg)
 {
     _list_e *data_fetch = (_list_e *)arg;
@@ -54,13 +51,16 @@ void *data_fetch(void *arg)
     return NULL;
 }
 void print(_list_e *fetched_list)
-{
+{ 
+    pthread_mutex_lock(&fetched_list->lock);
     _node_t *pos = fetched_list->head;
     while (pos != NULL)
     {
         printf("%d\t%s", pos->node_no, pos->line);
         pos = pos->next;
     }
+    pthread_mutex_unlock(&fetched_list->lock);
+
 }
 
 void *data_find(void *arg)
@@ -93,9 +93,15 @@ void mem_clean(_list_e *fetched_data)
 int main()
 {
     FILE *fptr = fopen("unique_words.txt", "r");
+    FILE *fptr2 = fopen("concurrent_linked_list.c","r");
     if (!fptr)
     {
-        fprintf(stderr, "[Error] invalide_file\n");
+        fprintf(stderr, "[Error] (fptr)_invalid_file\n");
+        exit(1);
+    }
+        if (!fptr2)
+    {
+        fprintf(stderr, "[Error] (fptr2)_invalid_file\n");
         exit(1);
     }
     _list_e LISt;
@@ -104,9 +110,9 @@ int main()
 
     pthread_t t1, t2;
     pthread_create(&t1, NULL, data_fetch, &LISt);
-    pthread_join(t1, NULL);
     printf("Fetched\n");
     pthread_create(&t2, NULL, data_find, &LISt);
+    pthread_join(t1, NULL);
     pthread_join(t2, NULL);
     mem_clean(&LISt);
     printf("Done\n");
