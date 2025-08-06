@@ -54,6 +54,7 @@ Here's the breakdown:
 3) Livelock Risk: This approach can lead to livelock, where threads repeatedly try and fail to acquire locks. Adding a random delay can help avoid livelock.
 
 **Deadlock avoidance via scheduling**
+
 (assumed there is no concurrency (means no context switching))
 instead of prevention  , some time deadlock avoidance (via scheduling )is better , here avoidance means 
 avoiding the conditions which could leads to deadlock . example : we have 4 threads(T1,T2,T3,T4) and 2 cores(C1,C2). case 1 , assume that T1 , T2 requires two locks L1,L2 (acquires locks in any order )and T3 requires L2 and T4 requires no locks . so ,to avoid deadlock ,system schedules t1,t2(both are scheduled like non premptive scheduling ) in same core (c1) and t3,t4 in c2 , to avoid deadlock. avoidance of deadlock via scheduling is not a widely-used general-purpose solution.   
